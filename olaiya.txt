@@ -6,3 +6,4 @@ Practising
 I must be great master
 
 I must be great
+deploy to staging enviroment
