@@ -6,4 +6,6 @@ Practising
 I must be great master
 
 I must be great
-deploy to staging enviroment
+deploy to staging env
+echo good job.
+Tested and accepted
